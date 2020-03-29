@@ -25,8 +25,8 @@ subtitle = "Data from the COVID-19 Canada Open Data Working Group. Epidemiologic
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "LightGrey"
-  gradient_end = "LightGrey"
+  gradient_start = "DarkGrey"
+  gradient_end = "Black"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.

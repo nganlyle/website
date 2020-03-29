@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Academic Kickstart"
@@ -25,7 +25,7 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "DarkGreen"
+  gradient_start = "Orange"
   gradient_end = "ForestGreen"
 
   # Background image.
@@ -73,3 +73,5 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}}
+
+<center><iframe src="https://public.tableau.com/views/CanadaProvincialCOVID19/ProvincialDashboard?:display_count=y&:origin=viz_share_link" width="1000" height="827" frameborder="0"></iframe></center>

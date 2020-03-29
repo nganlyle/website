@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Canadian COVID-19 Dashboards"
-subtitle = "Data from the COVID-19 Canada Open Data Working Group"
+subtitle = "Data from the COVID-19 Canada Open Data Working Group. Epidemiological Data from the COVID-19 Outbreak in Canada. https://github.com/ishaberry/Covid19Canada."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = "Data from the COVID-19 Canada Open Data Working Group"
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "Grey"
-  gradient_end = "DarkGrey"
+  gradient_start = "LightGrey"
+  gradient_end = "LightGrey"
 
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -55,5 +55,3 @@ subtitle = "Data from the COVID-19 Canada Open Data Working Group"
 <center><iframe scrolling="no" src="https://public.tableau.com/views/CanadaCOVID19/CanadaDashboard?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1000" height="827" frameborder="0"></iframe></center>
 
 <center><iframe scrolling="no" src="https://public.tableau.com/views/CanadaCOVID19DemographicData/COVID19CanadaDemographics?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1000" height="827" frameborder="0"></iframe></center>
-
-Epidemiological Data from the COVID-19 Outbreak in Canada. https://github.com/ishaberry/Covid19Canada.

@@ -50,7 +50,11 @@ subtitle = "Data from the COVID-19 Canada Open Data Working Group. Epidemiologic
  css_class = ""
 +++
 
+Select one or more provinces on the map.
+
 <center><iframe scrolling="no" src="https://public.tableau.com/views/CanadaProvincialCOVID19/CanadaDashboard?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1000" height="827" frameborder="0"></iframe></center>
+
+Mortality is higher in men and those over the 70 years old.
 
 <center><iframe scrolling="no" src="https://public.tableau.com/views/CanadaCOVID19DemographicData/COVID19CanadaDemographics?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1000" height="827" frameborder="0"></iframe></center>
 

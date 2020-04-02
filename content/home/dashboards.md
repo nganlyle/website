@@ -52,6 +52,6 @@ subtitle = "Data from the COVID-19 Canada Open Data Working Group. Epidemiologic
 
 <center><iframe scrolling="no" src="https://public.tableau.com/views/CanadaProvincialCOVID19/CanadaDashboard?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1000" height="827" frameborder="0"></iframe></center>
 
-<center><iframe scrolling="no" src="https://public.tableau.com/views/CanadaCOVID19/CanadaDashboard?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1000" height="827" frameborder="0"></iframe></center>
-
 <center><iframe scrolling="no" src="https://public.tableau.com/views/CanadaCOVID19DemographicData/COVID19CanadaDemographics?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1000" height="827" frameborder="0"></iframe></center>
+
+<center><iframe scrolling="no" src="https://public.tableau.com/views/CanadaCOVID19/CanadaDashboard?:display_count=y&:origin=viz_share_link&:showVizHome=no" width="1000" height="827" frameborder="0"></iframe></center>

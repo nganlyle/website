@@ -57,3 +57,5 @@ subtitle = ""
 3. 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE. https://github.com/CSSEGISandData/COVID-19.
 
 4. The New York Times. Coronavirus (Covid-19) Data in the United States. https://github.com/nytimes/covid-19-data.
+
+5. Ontario Ministry of Health. Confirmed positive cases of COVID19 in Ontario. https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario.
